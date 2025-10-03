@@ -38,7 +38,7 @@ from router import (
 DATA_DIR = os.getenv("DATA_DIR", "s3://droogbucket/data")
 CHATDB_PATH = os.getenv("CHATDB_PATH", "s3://droogbucket/lancedb/chatdb")
 LANCEDB_PATH = os.getenv("LANCEDB_PATH", "s3://droogbucket/lancedb")
-AWS_REGION = os.getenv("AWS_REGION", "ap-southeast-2")
+AWS_REGION = os.getenv("AWS_REGION", "ap-south-1a")
 AWS_ACCESS_KEY_ID = os.getenv("AWS_ACCESS_KEY_ID")
 AWS_SECRET_ACCESS_KEY = os.getenv("AWS_SECRET_ACCESS_KEY")
 
