@@ -1,0 +1,6 @@
+$4c89a081-2fa2-48d4-81c3-572efcb32871²¨,
+session_id ÿÿÿÿÿÿÿÿÿ*string08Zdefault.total_turns ÿÿÿÿÿÿÿÿÿ*int6408Zdefault-	llm_model ÿÿÿÿÿÿÿÿÿ*string08Zdefault.top_k_dense ÿÿÿÿÿÿÿÿÿ*int6408Zdefault/top_k_sparse ÿÿÿÿÿÿÿÿÿ*int6408Zdefault1top_k_combined ÿÿÿÿÿÿÿÿÿ*int6408Zdefault2retrieval_type ÿÿÿÿÿÿÿÿÿ*string08Zdefault8total_session_time_ms ÿÿÿÿÿÿÿÿÿ*int6408Zdefault<avg_embedding_latency_ms ÿÿÿÿÿÿÿÿÿ*double08ZdefaultBavg_dense_retrieval_latency_ms	 ÿÿÿÿÿÿÿÿÿ*double08ZdefaultCavg_sparse_retrieval_latency_ms
+ ÿÿÿÿÿÿÿÿÿ*double08Zdefault6avg_llm_latency_ms ÿÿÿÿÿÿÿÿÿ*double08Zdefault:avg_retrieval_strength ÿÿÿÿÿÿÿÿÿ*double08Zdefault.
+created_at ÿÿÿÿÿÿÿÿÿ*string08Zdefault,ended_at ÿÿÿÿÿÿÿÿÿ*string08Zdefault2total_cost_usd ÿÿÿÿÿÿÿÿÿ*double08Zdefault"!
+lance.auto_cleanup.interval20"'
+lance.auto_cleanup.older_than14days
